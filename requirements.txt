@@ -1,0 +1,9 @@
+ridgeplot
+faicons
+pandas
+plotly
+numpy
+sklearn
+shared
+shiny
+shinywidgets
